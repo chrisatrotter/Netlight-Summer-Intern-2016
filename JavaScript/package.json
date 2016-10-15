@@ -1,0 +1,19 @@
+{
+  "name": "netlight-summer-internship-poker",
+  "version": "1.0.0",
+  "description": "A programming assigment for a card game for Netlight Summer Internship",
+  "scripts": {
+    "test": "mocha tests.js",
+    "test:watch": "mocha test.js --watch"
+  },
+  "author": "Netlight AS",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node" : "4.5.0"
+  },
+  "dependencies": {
+    "expect": "1.20.2",
+    "mocha": "3.0.2"
+  }
+}
